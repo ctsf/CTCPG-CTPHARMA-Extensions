@@ -2,7 +2,7 @@
 Full user guide for [CT CPG](https://help.customertimes.com/articles/ct-cpg-publication/cpg-groups-management)
 and for [CT Pharma](https://github.com/ctsf/CTCPG-CTPHARMA-Extensions/tree/CTOM-1742/DynamicGroups)
 
-This extension may be applied with **CT CPG package (since V1.40)** and **CT Pharma package (since V2.38)**
+This extension may be applied with **CT CPG package (since V1.40)** and **CT Pharma package (since V2.39)**
 
 ## Notice
 The following objects are supported out of the box and cannot be used with this extension:
